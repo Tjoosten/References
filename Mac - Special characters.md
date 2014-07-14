@@ -14,7 +14,11 @@ This reference is writed for a macbook 13' inch.
 | `shift` + `alt` + `:`    | output = `\`                  |
 | `shift` + `alt` + `§`    | output = `å`                  |
 | `shift` + `alt` + `è`    | output = `»`                  |
-| `shift` + `alt` + `&`    | output = `´`                  |
-| `shift` + `alt` + `é`    | output = `„`                  |
-| `shift` + `alt` + `"`    | output = `”`                  |
+| `shift` + `alt` + `1`    | output = `´`                  |
+| `shift` + `alt` + `2`    | output = `„`                  |
+| `shift` + `alt` + `3`    | output = `”`                  |
+| `shift` + `alt` + `4`    | output = `’`                  |
+| `shift` + `alt` + `8`    | output = `Û`                  |
+| `shift` + `alt` + `9`    | output = `Á`                  |
+
 
