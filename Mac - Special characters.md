@@ -9,3 +9,7 @@ This reference is writed for a macbook 13' inch.
 | `shift` + `alt` + `)`    | output = `]`                  |
 | `alt` + `(`              | output = `{`                  |
 | `alt` + `)`              | output = `}`                  | 
+| `shift` + `alt` + `$`    | output = `¥`                  |
+| `shift` + `alt` + `£`    | output = `#`                  |
+| `shift` + `alt` + `:`    | output = `\`                  |
+| `shift` + `alt` + `§`    | output = `å`                  |
