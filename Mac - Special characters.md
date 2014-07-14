@@ -1,5 +1,5 @@
 # Reference - Mac special characters
 
-| Input                      |  Output       |
-| ------------------------ | --------------- |
-| `shift` + `alt` + `L`    | output = `|`    |
+| Input                    | Output                        |
+| ------------------------ | ----------------------------- |
+| `shift` + `alt` + `L`    | output = horizontal stripe    |
