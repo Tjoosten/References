@@ -1,6 +1,6 @@
 # Reference - Mac special characters
 
-This reference is writed for a macbook 13' inch.
+This reference is writed for a macbook 13' inch. With a AZERTY keyboard layout.
 
 | Input                    | Output                        |
 | ------------------------ | ----------------------------- |
