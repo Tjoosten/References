@@ -2,4 +2,4 @@
 
 | Input                    | Output                        |
 | ------------------------ | ----------------------------- |
-| `shift` + `alt` + `L`    | output = horizontal stripe    |
+| `shift` + `alt` + `L`    | output = ```|```              |
