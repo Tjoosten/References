@@ -2,4 +2,4 @@
 
 | Input                      |  Output       |
 | ------------------------ | --------------- |
-| `shift` + 'alt' + `L`   | output =  `|` |
+| `shift` + `alt` + `L`   | output =  `|` |
